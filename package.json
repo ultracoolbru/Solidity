@@ -1,0 +1,31 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "This is a simple repository for some Solidity code.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultracoolbru/Solidity.git"
+  },
+  "keywords": [
+    "solidity",
+    "education"
+  ],
+  "author": "Edward Whitehead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultracoolbru/Solidity/issues"
+  },
+  "homepage": "https://github.com/ultracoolbru/Solidity#readme",
+  "dependencies": {
+    "@drizzle/store": "^1.5.3",
+    "ganache": "^7.5.0",
+    "mocha": "^10.1.0"
+  }
+}
